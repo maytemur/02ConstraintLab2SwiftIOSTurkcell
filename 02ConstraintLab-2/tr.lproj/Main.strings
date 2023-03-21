@@ -1,0 +1,117 @@
+
+/* Class = "UIButton"; configuration.title = "%"; ObjectID = "0Hv-vl-LBW"; */
+"0Hv-vl-LBW.configuration.title" = "%";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Hv-vl-LBW"; */
+"0Hv-vl-LBW.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "4"; ObjectID = "0ot-60-i1u"; */
+"0ot-60-i1u.configuration.title" = "4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0ot-60-i1u"; */
+"0ot-60-i1u.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "C"; ObjectID = "3Z1-G5-AMr"; */
+"3Z1-G5-AMr.configuration.title" = "C";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3Z1-G5-AMr"; */
+"3Z1-G5-AMr.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "3"; ObjectID = "59o-bm-Fj6"; */
+"59o-bm-Fj6.configuration.title" = "3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "59o-bm-Fj6"; */
+"59o-bm-Fj6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Multi Language Support"; ObjectID = "8eG-jq-jgc"; */
+"8eG-jq-jgc.text" = "Çoklu Dil Desteği";
+
+/* Class = "UIButton"; configuration.title = "."; ObjectID = "BfZ-In-L5j"; */
+"BfZ-In-L5j.configuration.title" = ".";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BfZ-In-L5j"; */
+"BfZ-In-L5j.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "9"; ObjectID = "GNd-gO-fG9"; */
+"GNd-gO-fG9.configuration.title" = "9";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GNd-gO-fG9"; */
+"GNd-gO-fG9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "1"; ObjectID = "Ll2-Pn-bkq"; */
+"Ll2-Pn-bkq.configuration.title" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ll2-Pn-bkq"; */
+"Ll2-Pn-bkq.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "7"; ObjectID = "McA-Ux-VEZ"; */
+"McA-Ux-VEZ.configuration.title" = "7";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "McA-Ux-VEZ"; */
+"McA-Ux-VEZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "NuR-r1-SNf"; */
+"NuR-r1-SNf.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NuR-r1-SNf"; */
+"NuR-r1-SNf.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "="; ObjectID = "Ocy-uR-CaS"; */
+"Ocy-uR-CaS.configuration.title" = "=";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ocy-uR-CaS"; */
+"Ocy-uR-CaS.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "2"; ObjectID = "Qqy-hp-Waw"; */
+"Qqy-hp-Waw.configuration.title" = "2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qqy-hp-Waw"; */
+"Qqy-hp-Waw.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "➗"; ObjectID = "SMJ-Dh-hCX"; */
+"SMJ-Dh-hCX.configuration.title" = "➗";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SMJ-Dh-hCX"; */
+"SMJ-Dh-hCX.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "ZOP-P9-OOd"; */
+"ZOP-P9-OOd.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZOP-P9-OOd"; */
+"ZOP-P9-OOd.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "5"; ObjectID = "dPw-Ne-qQj"; */
+"dPw-Ne-qQj.configuration.title" = "5";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dPw-Ne-qQj"; */
+"dPw-Ne-qQj.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "+/-"; ObjectID = "fH9-wH-2B4"; */
+"fH9-wH-2B4.configuration.title" = "+/-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fH9-wH-2B4"; */
+"fH9-wH-2B4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "x"; ObjectID = "g1J-iJ-54e"; */
+"g1J-iJ-54e.configuration.title" = "x";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g1J-iJ-54e"; */
+"g1J-iJ-54e.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "8"; ObjectID = "gZH-xn-cPH"; */
+"gZH-xn-cPH.configuration.title" = "8";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gZH-xn-cPH"; */
+"gZH-xn-cPH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "0"; ObjectID = "qYs-f7-gou"; */
+"qYs-f7-gou.configuration.title" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qYs-f7-gou"; */
+"qYs-f7-gou.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "6"; ObjectID = "srK-HT-4Kk"; */
+"srK-HT-4Kk.configuration.title" = "6";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "srK-HT-4Kk"; */
+"srK-HT-4Kk.normalTitle" = "Button";
